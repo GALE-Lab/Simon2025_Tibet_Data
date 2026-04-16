@@ -8,7 +8,7 @@ from flask import Flask, Response, render_template, request, abort
 from natsort import natsort_keygen
 
 import matplotlib
-# matplotlib.rcParams.update({ 'svg.fonttype': 'none', "font.family": "Arial"})
+matplotlib.use('Agg') # use the Anti-Grain Geometry backend, which renders to a raster instead of a screen. This is necessary to use matplotlib in a server environment without a display.
 
 import mplstereonet as mpl
 from matplotlib.figure import Figure
@@ -185,7 +185,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return render_template("./index.html",
+    return render_template("index.html",
         server_epoch=SERVER_EPOCH,
         loc_options=[
             (all_locs[l].name, "%s (%s)" % (all_locs[l].name, summary_from_loc(all_locs[l])))
