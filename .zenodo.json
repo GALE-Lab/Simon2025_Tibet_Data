@@ -1,0 +1,31 @@
+{
+  "title": "Min Shan Tectonics Supporting Data",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-05-28",
+  "description": "Compiled planar and linear structural measurement data, field point locations, geospatial mapping files, and map-source reference documentation supporting the manuscript Cenozoic Wedge Tectonics as a Crustal Thickening Mechanism for the Min Shan, Eastern Tibetan Plateau.",
+  "creators": [
+    {
+      "name": "Simon, Abijah",
+      "affiliation": "University of California, Los Angeles"
+    },
+    {
+      "name": "Kapp, Paul",
+      "affiliation": "University of Arizona"
+    },
+    {
+      "name": "Wu, Chen",
+      "affiliation": "Institute of Tibetan Plateau Research, Chinese Academy of Sciences"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "tectonics",
+    "Tibet",
+    "Min Shan",
+    "structural geology",
+    "geologic mapping",
+    "field measurements"
+  ],
+  "access_right": "open"
+}

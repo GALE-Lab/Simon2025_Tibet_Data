@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the archived Zenodo release associated with this repository."
+title: "Min Shan Tectonics Supporting Data"
+type: dataset
+authors:
+  - family-names: Simon
+    given-names: Abijah
+    affiliation: "University of California, Los Angeles"
+    email: abijah@ucla.edu
+  - family-names: Kapp
+    given-names: Paul
+    affiliation: "University of Arizona"
+  - family-names: Wu
+    given-names: Chen
+    affiliation: "Institute of Tibetan Plateau Research, Chinese Academy of Sciences"
+abstract: "Compiled planar and linear structural measurement data, field point locations, geospatial mapping files, and map-source reference documentation supporting the manuscript Cenozoic Wedge Tectonics as a Crustal Thickening Mechanism for the Min Shan, Eastern Tibetan Plateau."
+repository-code: "https://github.com/GALE-Lab/Simon2025_Tibet_Data"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-05-28"
+keywords:
+  - tectonics
+  - Tibet
+  - Min Shan
+  - structural geology
+  - geologic mapping
+  - field measurements

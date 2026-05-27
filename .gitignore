@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Office temporary files
+~$*
+
+# Local KML backups
+Mapping_Data-*-archive.kml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+.python-version
