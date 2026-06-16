@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use these data, please cite the archived Zenodo release associated with this repository."
-title: "Min Shan Tectonics Supporting Data"
+message: "If you use these data, please cite the Zenodo DOI associated with the direct Zenodo deposit."
+title: "Supporting Data for Cenozoic Wedge Tectonics as a Crustal Thickening Mechanism for the Min Shan, Eastern Tibetan Plateau"
 type: dataset
 authors:
   - family-names: Simon
@@ -13,11 +13,11 @@ authors:
   - family-names: Wu
     given-names: Chen
     affiliation: "Institute of Tibetan Plateau Research, Chinese Academy of Sciences"
-abstract: "Compiled planar and linear structural measurement data, field point locations, geospatial mapping files, and map-source reference documentation supporting the manuscript Cenozoic Wedge Tectonics as a Crustal Thickening Mechanism for the Min Shan, Eastern Tibetan Plateau."
+abstract: "Compiled structural measurement data, field point locations, geospatial mapping files, Supporting Information figure files, and map-source reference documentation supporting the manuscript Cenozoic Wedge Tectonics as a Crustal Thickening Mechanism for the Min Shan, Eastern Tibetan Plateau."
 repository-code: "https://github.com/GALE-Lab/Simon2025_Tibet_Data"
 license: CC-BY-4.0
 version: "1.0.0"
-date-released: "2026-05-28"
+date-released: "2026-06-16"
 keywords:
   - tectonics
   - Tibet
